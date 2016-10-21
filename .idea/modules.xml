@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppSmartUpdate.iml" filepath="$PROJECT_DIR$/AppSmartUpdate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_v1/app_v1.iml" filepath="$PROJECT_DIR$/app_v1/app_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_v2/app_v2.iml" filepath="$PROJECT_DIR$/app_v2/app_v2.iml" />
+    </modules>
+  </component>
+</project>
